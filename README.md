@@ -21,7 +21,7 @@ they used a house analogy to explain the concept more concretely. a house requir
 
 ## Usage
 
-it's as simple as navigating any other website.  
+it's as simple as navigating any other website.  each section contains notes about a certain topic. there's even a process in the java script file which you can see using the console function that randomly selects a topic to study.
 
 ## Credits
 
